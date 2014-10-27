@@ -1,8 +1,9 @@
-/bootstrap/compiled.php
-/vendor
-composer.phar
-composer.lock
-.env.*.php
-.env.php
-.DS_Store
-Thumbs.db
+# is comment, delete # to enable
+#/bootstrap/compiled.php
+#/vendor
+#composer.phar
+#composer.lock
+#.env.*.php
+#.env.php
+#.DS_Store
+#Thumbs.db
